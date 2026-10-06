@@ -1,10 +1,12 @@
 :root {
-  --background: #f8fafc;
-  --surface: #ffffff;
-  --text: #172033;
-  --muted: #475569;
-  --accent: #1d4ed8;
-  --border: #cbd5e1;
+  color-scheme: dark;
+
+  --background: #0f172a;
+  --surface: #1e293b;
+  --text: #f1f5f9;
+  --muted: #cbd5e1;
+  --accent: #93c5fd;
+  --border: #475569;
 }
 
 * {
@@ -139,7 +141,7 @@ main,
 
 .button-primary {
   background-color: var(--accent);
-  color: #ffffff;
+  color: var(--background);
 }
 
 .button-secondary {

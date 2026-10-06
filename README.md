@@ -3,6 +3,10 @@
 A personal portfolio showcasing my full-stack development and
 AI application work, including RidzTalk, a two-way voice translator.
 
+## Live Website
+
+[Visit my portfolio](https://dannyridz.github.io/Project-Building-Your-Personal-Website/)
+
 ## Why I Built This
 
 I built this website to introduce my background, demonstrate my
